@@ -1,9 +1,9 @@
 class HomeController < ApplicationController
   
-  def index
+  def home
   end
   
-  def proyects
+  def projects
   end
 
   def contact
